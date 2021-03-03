@@ -1,0 +1,2 @@
+In this project I have created two table In SQL server and Linked it to Windows form application . One is Customer information and another is Order Information. It has one to many relationship. 
+I have done CRUD operation.  And I have showed a report which it included Customer Information and Image. 
